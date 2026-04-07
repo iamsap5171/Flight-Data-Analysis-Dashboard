@@ -17,7 +17,7 @@ The goal was to analyze large-scale flight data and extract actionable insights 
 
 📊 Dashboard Preview
 
-- https://github.com/iamsap5171/Flight-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
+- (https://github.com/iamsap5171/Flight-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
 ---
 
